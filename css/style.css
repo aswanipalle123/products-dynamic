@@ -1,0 +1,34 @@
+nav .logo{
+    width: 220px;
+    height: 100px;
+}
+nav ul a{
+    font-size:20px!important
+}
+
+#banner .carousel-indicators button{
+/*height:50px;
+width:50px;*/
+width:100px;
+height:10px;
+background-color:navy;
+
+border-radius: 20px;
+
+}
+#banner img{
+    width:100%;
+    height:400px;
+}
+#products img{
+    height:150px;
+    width:150px;
+    display:block;
+    margin:auto
+}
+#services img{
+    height:100px;
+    width:100px;
+/*border-radius: 50%;
+border:1px solid green;*/
+}
